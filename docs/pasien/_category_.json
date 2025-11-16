@@ -1,0 +1,8 @@
+{
+  "label": "Registrasi Pasien",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Registrasi pasien ketika pertama kali berkunjung."
+  }
+}
