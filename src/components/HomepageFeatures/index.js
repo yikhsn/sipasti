@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Petugas Jadi Mudah',
-    Svg: require('@site/static/img/landing/02-doctor.svg').default,
+    Svg: require('@site/static/img/landing/05-equipment.svg').default,
     description: (
       <>
         Pekerjaan petugas jadi lebih mudah, cepat, dan minim kesalahan!
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Profit Makin Optimal',
-    Svg: require('@site/static/img/landing/03-hospital.svg').default,
+    Svg: require('@site/static/img/landing/04-money.svg').default,
     description: (
       <>
         Profit fasilitas pelayanan kesehatan makin optimal, biaya operasional lebih efisien!

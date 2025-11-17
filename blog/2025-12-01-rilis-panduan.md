@@ -1,8 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+slug: rilis-panduan
+title: Rilis Panduan Pangguna Rawat ID
+authors: yikhsn
+tags: [rilis]
 ---
 
 Lorem ipsum dolor sit amet...

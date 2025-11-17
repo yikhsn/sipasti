@@ -60,8 +60,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -120,34 +120,44 @@ const config = {
             title: 'Tautan',
             items: [
               {
-                label: 'Demo',
+                label: 'Rawat ID',
+                href: 'https://rawat.id/',
+              },
+              {
+                label: 'Demo Aplikasi',
                 href: 'https://demo.rawat.id/',
+              },
+              {
+                label: 'Registrasi Akun',
+                href: 'https://www.rawat.id/register',
               },
               {
                 label: 'Instagram',
                 href: 'https://instagram.com/rawat_indonesia',
               },
-              {
-                label: 'Blog Rawat ID',
-                href: 'https://blog.rawat.id/',
-              },
+              
             ],
           },
           {
             title: 'Lainnya',
             items: [
               {
+                label: 'Blog',
+                href: 'https://blog.rawat.id/',
+              },
+              {
                 label: 'Catatan Rilis',
                 to: '/notes',
               },
-               {
+              {
                 label: 'Catatan Pengembang',
                 href: 'https://dev.rawat.id/',
               },
+              
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Rawat ID`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Rawat ID`,
       },
       prism: {
         theme: prismThemes.github,
