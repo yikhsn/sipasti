@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Panduan Menghapus Data Pasien Teregistrasi
+# Hapus Data Pasien Teregistrasi
 
 Panduan ini menjelaskan prosedur untuk menghapus data **pasien yang telah terdaftar di sistem** dan memiliki Nomor Rekam Medis (RM).
 
@@ -25,7 +25,7 @@ Data pasien **hanya bisa dihapus** jika memenuhi semua kondisi berikut:
 
 ---
 
-## Prosedur Langkah-demi-Langkah
+## Langkah-langkah Menghapus Data Pasien
 
 Ikuti langkah-langkah berikut untuk menghapus data pasien yang memenuhi syarat.
 
@@ -50,7 +50,7 @@ Ikuti langkah-langkah berikut untuk menghapus data pasien yang memenuhi syarat.
 
 ![Ketuk Tombol Hapus Data Pasien](../../static/img/panduan/03-hapus-data-pasien/01-aksi-hapus-data.png)
 
-### 3. Lakukan Konfirmasi Final
+### 3. Lakukan Konfirmasi Akhir
 
 1.  Sebuah *pop-up* konfirmasi akan muncul untuk memverifikasi tindakan Anda.
 2.  Sistem akan bertanya apakah Anda yakin ingin menghapus data pasien tersebut.
