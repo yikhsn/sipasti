@@ -66,6 +66,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          routeBasePath: 'notes',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -95,7 +96,7 @@ const config = {
             position: 'left',
             label: 'Panduan Pengguna',
           },
-          {to: '/blog', label: 'Catatan Rilis', position: 'left'},
+          {to: '/notes', label: 'Catatan Rilis', position: 'left'},
           {
             href: 'https://demo.rawat.id/',
             label: 'Demo',
@@ -137,7 +138,7 @@ const config = {
             items: [
               {
                 label: 'Catatan Rilis',
-                to: '/blog',
+                to: '/notes',
               },
                {
                 label: 'Catatan Pengembang',
