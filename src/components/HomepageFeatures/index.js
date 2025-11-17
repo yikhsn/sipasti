@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Petugas Jadi Mudah',
-    Svg: require('@site/static/img/landing/05-equipment.svg').default,
+    Svg: require('@site/static/img/landing/06-earth.svg').default,
     description: (
       <>
         Pekerjaan petugas jadi lebih mudah, cepat, dan minim kesalahan!
