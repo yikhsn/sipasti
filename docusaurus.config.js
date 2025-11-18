@@ -90,7 +90,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Guideline Rawat ID',
+        title: 'Panduan Rawat ID',
         logo: {
           alt: 'Logo Rawat ID',
           src: 'img/rawatid.png',
