@@ -47,6 +47,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: 'panduan',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -112,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Panduan Pengguna',
-                to: '/docs/overview',
+                to: '/panduan/overview',
               },
             ],
           },
