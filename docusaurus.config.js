@@ -79,6 +79,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      
+      metadata: [
+        {name: 'keywords', content: 'rawat id, rumah sakit, klinik, sistem informasi, manajemen rumah sakit, manajemen klinik, aplikasi rumah sakit, aplikasi klinik, software rumah sakit, software klinik'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
@@ -165,6 +170,31 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  
+    headTags: [
+    // Declare a <link> preconnect tag
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://panduan.rawat.id',
+      },
+    },
+    // Declare some json-ld structured data
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'Organization',
+        name: 'Panduan Rawat ID - Sistem Informasi Manajemen Rumah Sakit dan Klinik',
+        url: 'https://panduan.rawat.id',
+        logo: 'https://www.rawat.id/images/logo.svg',
+      }),
+    },
+  ],
 };
 
 export default config;

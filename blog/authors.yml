@@ -11,3 +11,15 @@ yikhsn:
     linkedin: yikhsn
     github: yikhsn
     newsletter: https://yeedev.id/about
+
+rawatid:
+  name: Rawat ID
+  title: Rawat ID - Development Team
+  url: https://rawat.id
+  image_url: https://www.rawat.id/images/logo.svg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-rawat-id-articles'
+  socials:
+    github: Rawat-ID
+    newsletter: https://rawat.id/blog

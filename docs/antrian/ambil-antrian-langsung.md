@@ -1,5 +1,9 @@
 ---
 sidebar_position: 1
+title: Cara Ambil Antrian Langsung untuk Antrian Pendaftaran
+description: Panduan untuk mengambil nomor antrian untuk antrian pendaftaran kunjungan pasien
+image: https://www.rawat.id/images/laptop.svg
+keywords: [antrian klinik, antrian rumah sakit, mesin antrian, antrian pasien, anjungan pasien]
 ---
 
 # Pengambilan Nomor Antrian Langsung (Manual)

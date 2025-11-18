@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+title: Cara Registrasi Kunjungan Pasien di Sistem
+description: Panduan untuk melakukan registrasi kunjungan pasien di klinik atau rumah sakit melalui sistem informasi
+image: https://www.rawat.id/images/laptop.svg
+keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]
+
 ---
 
 # Registrasi Kunjungan Pasien dari Antrian
