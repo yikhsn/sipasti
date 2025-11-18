@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Cara Input Data Pelayanan Poliklinik Pasien Rawat Jalan
+# title: Cara Input Data Pelayanan Poliklinik Pasien Rawat Jalan
 description: Panduan untuk menginput data pelayanan pasien rawat jalan di poliklinik
 image: https://www.rawat.id/images/laptop.svg
 keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]

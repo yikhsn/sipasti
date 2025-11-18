@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Cara Ambil Antrian dan Registrasi Pasien Secara Mandiri
+# title: Cara Ambil Antrian dan Registrasi Pasien Secara Mandiri
 description: Panduan untuk mengambil nomor antrian dan registrasi mandiri pasien di mesin anjungan pasien
 image: https://www.rawat.id/images/laptop.svg
 keywords: [antrian klinik, antrian rumah sakit, registrasi mandiri pasien, anjungan pasien]

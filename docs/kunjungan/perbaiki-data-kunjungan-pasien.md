@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Perbaiki Data Kunjungan Pasien di Sistem
+# title: Perbaiki Data Kunjungan Pasien di Sistem
 description: Panduan untuk melakukan perbaikan data kunjungan pasien di klinik atau rumah sakit melalui sistem informasi
 image: https://www.rawat.id/images/laptop.svg
 keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]

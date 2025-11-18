@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Panduan Penggunaan Rawat ID Sebagai Sistem Informasi Rumah Sakit dan Klinik
+# title: Panduan Penggunaan Rawat ID Sebagai Sistem Informasi Rumah Sakit dan Klinik
 description: Panduan Penggunaan Rawat ID Sebagai Sistem Informasi Rumah Sakit dan Klinik
 image: https://www.rawat.id/images/laptop.svg
 keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]

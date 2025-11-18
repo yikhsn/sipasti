@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Cara Registrasi Pasien Baru di Sistem
+# title: Cara Registrasi Pasien Baru di Sistem
 description: Panduan untuk melakukan registrasi pasien baru klinik atau rumah sakit melalui sistem informasi
 image: https://www.rawat.id/images/laptop.svg
 keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]

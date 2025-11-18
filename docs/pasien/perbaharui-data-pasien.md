@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Cara Perbarui Data Pasien di Sistem Informasi Klinik dan Rumah Sakit
+# title: Cara Perbarui Data Pasien di Sistem Informasi Klinik dan Rumah Sakit
 description: Panduan untuk memperbarui data pasien klinik atau rumah sakit melalui sistem informasi
 image: https://www.rawat.id/images/laptop.svg
 keywords: [simrs, sistem informasi rumah sakit, sistem klinik, rekam medis elektronik]
