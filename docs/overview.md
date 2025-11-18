@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Overview Sistem
+# Overview Panduan
 
-**Rawat ID** adalah sistem informasi pengelolaan fasilitas pelayanan kesehatan modern untuk meningkatkan pelayanan pasien di fisilitas kesehatan, memudahkan petugas untuk mengelola data pasien dan memudahkan petugas kesehatan dalam menyusun rekam medis.
+**Rawat ID** adalah sistem informasi pengelolaan fasilitas pelayanan kesehatan modern untuk meningkatkan pelayanan pasien, memudahkan petugas untuk mengelola data dan rekam medis pasien.
 
-**Rawat ID** memiliki fitur lengkap yang dirancang untuk bisa digunakan dengan mudah untuk berbagai fasilitas pelayan kesehatan (faskes) seperti Rumah Sakit, Klinik, Apotik hingga Praktik Dokter Mandiri. 
+**Rawat ID** memiliki fitur lengkap yang dirancang untuk dapat digunakan dengan mudah untuk berbagai fasilitas pelayan kesehatan (faskes) mulai dari Rumah Sakit, Klinik, Apotik hingga Praktik Dokter Mandiri. 
 
 
 ## Bagaimana Memulai?
@@ -15,4 +15,6 @@ Jika faskesmu belum berlangganan **Rawat ID**, pastikan faskesmu untuk berlangga
 
 ### Apa yang Kamu Butuhkan?
 
-Untuk memulai menggunakan Rawat ID, pastikan faskesmu sudah menggunakan **Rawat ID** dan kamu memiliki akses untuk menggunakannya, baik link (tautan) sistem Rawat ID faskesmu, akun pengguna (username) dan kata sandi (password)
+Untuk memulai menggunakan Rawat ID, pastikan faskesmu kamu memiliki akses untuk menggunakannya, baik link (tautan) sistem Rawat ID faskesmu, akun pengguna (username) dan kata sandi (password) untuk login ke sistem.
+
+Jika kamu sudah memiliki akun, kamu sudah siap untuk belajar menggunakan Rawat ID. Let us get started!
