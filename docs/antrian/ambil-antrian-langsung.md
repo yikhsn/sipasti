@@ -12,6 +12,8 @@ Panduan ini menjelaskan alur bagi pasien untuk mengambil nomor antrian pendaftar
 
 Proses ini merupakan salah satu mekanisme untuk mengelola alur registrasi kunjungan pasien agar lebih teratur. Pasien yang datang akan mengambil nomor antrian terlebih dahulu dan menunggu untuk dipanggil oleh petugas pendaftaran.
 
+![Ilustrasi Pengembilan Nomor Antrian](../../static/img/panduan/04-antrian-langsung/00-ilustrasi.png)
+
 ## Kapan Menggunakan Antrian Langsung?
 
 Penting untuk memahami perbedaan antara dua jenis antrian yang mungkin tersedia di fasilitas Anda.

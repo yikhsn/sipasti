@@ -12,6 +12,8 @@ Panduan ini menjelaskan alur registrasi mandiri di mesin anjungan (kiosk) yang d
 
 Proses ini memungkinkan pasien untuk mendaftarkan kunjungannya—memilih poliklinik, dokter, dan jenis pembayaran—secara mandiri. Karena identitas pasien sudah terekam di sistem, proses ini jauh lebih cepat daripada pendaftaran pasien baru.
 
+![Ilustrasi Pengembilan Nomor Antrian](../../static/img/panduan/05-antrian-pasien-lama/00-ilustrasi.png)
+
 :::warning Penting: Registrasi Mandiri Tetap Memerlukan Verifikasi
 Proses registrasi mandiri di anjungan **Tidak** menggantikan verifikasi oleh petugas. Pasien tetap harus menunggu dipanggil di loket pendaftaran untuk konfirmasi akhir data kunjungan, penjamin (asuransi), dan validasi lainnya sebelum dapat melanjutkan ke poliklinik.
 :::
