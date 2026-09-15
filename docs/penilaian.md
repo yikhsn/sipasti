@@ -22,14 +22,7 @@ Catatan: Jenis, jumlah, skala, format, dan teknik penyajian output mengikuti ket
 
 ## Kriteria Penilaian
 
-| Kriteria Penilaian | Aspek yang Dinilai |
-| --- | --- |
-| Proses dan Perkembangan Desain | Konsistensi proses perancangan, keaktifan asistensi, perkembangan desain dari tahap awal hingga akhir, serta tindak lanjut terhadap umpan balik dosen. |
-| Analisis dan Konsep Perancangan | Ketepatan mengolah data, potensi, permasalahan, dan kebutuhan sebagai dasar perancangan serta kemampuan merumuskan konsep yang relevan dan konsisten. |
-| Kreativitas dan Kualitas Desain | Kemampuan menghasilkan solusi desain yang kreatif, responsif terhadap permasalahan, memiliki kualitas arsitektural, serta menunjukkan keterpaduan ruang, bentuk, fungsi, dan konteks. |
-| Integrasi Aspek Teknis | Kemampuan mengintegrasikan struktur, konstruksi, utilitas, material, dan aspek teknis lainnya secara tepat sesuai tingkat Studio Perancangan Arsitektur. |
-| Komunikasi dan Presentasi | Kejelasan penyampaian gagasan dan hasil rancangan melalui gambar, visualisasi, maket/model, serta kemampuan menjelaskan dan mempertanggungjawabkan rancangan. |
-| Kelengkapan Output | Kelengkapan dan kesesuaian hasil perancangan dengan target, format, dan ketentuan yang ditetapkan dalam TOR. |
+![Tabel Kriteria Penilaian](/img/07-tabel-nilai.png)
 
 Catatan: Kriteria penilaian dapat disesuaikan dengan tingkat, capaian pembelajaran, karakteristik proyek, dan TOR masing-masing Studio Perancangan Arsitektur. Indikator dan tingkat capaian penilaian dijabarkan lebih lanjut dalam Rubrik Penilaian Studio
 
@@ -37,5 +30,4 @@ Catatan: Kriteria penilaian dapat disesuaikan dengan tingkat, capaian pembelajar
 
 Rubrik Penilaian Studio memberikan informasi mengenai aspek, indikator, dan tingkat capaian yang digunakan dalam proses evaluasi. Rubrik dapat digunakan oleh dosen sebagai acuan penilaian sekaligus oleh mahasiswa untuk memahami standar capaian yang diharapkan sejak awal proses perancangan.
 
-[ LIHAT RUBRIK PENILAIAN ]
-
+[ UNDUH RUBRIK PENILAIAN ] 

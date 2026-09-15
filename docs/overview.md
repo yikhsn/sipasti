@@ -8,31 +8,32 @@ image: https://www.rawat.id/images/laptop.svg
 
 # Profil Studio
 
-Studio Perancangan Arsitektur merupakan lingkungan pembelajaran yang mendukung mahasiswa dalam mengembangkan kemampuan perancangan melalui proses eksplorasi, analisis, diskusi, asistensi, pengembangan desain, dan evaluasi.
+## Studio Perancangan Arsitektur
 
-Studio tidak hanya berfungsi sebagai ruang untuk menghasilkan gambar rancangan, tetapi juga sebagai ruang interaksi akademik yang mendorong mahasiswa untuk mengembangkan kemampuan berpikir kritis, kreatif, komunikatif, dan solutif dalam menyelesaikan permasalahan perancangan arsitektur.
+Studio Perancangan Arsitektur merupakan mata kuliah dengan lingkungan pembelajaran yang mendukung mahasiswa dalam mengembangkan kemampuan perancangan melalui proses eksplorasi, analisis, diskusi, asistensi, pengembangan desain, dan evaluasi.
 
 Pembelajaran studio dilaksanakan secara bertahap melalui Studio Perancangan Arsitektur I sampai dengan Studio Perancangan Arsitektur VI dengan tingkat kompleksitas perancangan yang berkembang sesuai capaian pembelajaran pada setiap semester.
- 
-## Visi dan Misi
 
-### Visi
+![Profil Studio](/img/00-profil-studio.png)
 
-Menjadikan Program Studi Arsitektur unggul di bidang rekayasa desain yang berdasarkan pada aspek teknologi, lingkungan, dan budaya, serta menjunjung tinggi etika profesi dan kemandirian.
+## Integrasi Studio dengan Mata Kuliah Lain
 
-### Misi
+Studio Perancangan Arsitektur merupakan wadah penerapan dan integrasi pengetahuan serta keterampilan yang diperoleh mahasiswa melalui berbagai mata kuliah pendukung. Pengetahuan tersebut digunakan sebagai pertimbangan dalam proses pengambilan keputusan perancangan sehingga rancangan tidak hanya menjawab aspek fungsi dan estetika, tetapi juga mempertimbangkan aspek teknis, lingkungan, serta konteks yang relevan.
 
-1. Menyelenggarakan pendidikan yang berkualitas dalam bidang arsitektur yang relevan dengan perkembangan ilmu pengetahuan, teknologi, dan kebutuhan masyarakat. 
-2. Mengembangkan proses pembelajaran yang aktif, inovatif, dan berorientasi pada pengembangan kompetensi mahasiswa. 
-3. Mengembangkan penelitian dalam bidang arsitektur yang memperhatikan aspek teknologi, lingkungan, dan budaya. 
-4. Melaksanakan kegiatan pengabdian kepada masyarakat melalui penerapan keilmuan arsitektur. 
-5. Mendorong pengembangan kompetensi, profesionalisme, etika, dan kemandirian lulusan. 
-6. Mengembangkan kerja sama dengan berbagai pihak dalam mendukung pelaksanaan pendidikan dan pengembangan bidang arsitektur. 
+![Integrasi Studio dengan Mata Kuliah Lain](/img/05-integrasi.png)
 
-## Pedoman Pelaksanaan Studio
+## Ruang Studio Arsitektur
 
-Pedoman Pelaksanaan Studio Perancangan Arsitektur merupakan acuan bagi dosen dan mahasiswa dalam melaksanakan pembelajaran studio secara terarah dan konsisten.
+Untuk memfasilitasi kegiatan perancangan dan desain, Program Studi Arsitektur memiliki ruang studio khusus untuk mahasiswa arsitektur. Fasilitas umum yang tersedia di studio adalah set meja dan kursi, papan tulis, proyektor, rak. Semua fasilitas yang disediakan di dalam ruangan ditujukan untuk mendukung mahasiswa bekerja secara individu atau kelompok selama satu semester serta melakukan sesi diskusi dengan dosen pembimbing studio. 
 
-Pedoman memuat sistem pembelajaran studio, tahapan proses perancangan, mekanisme asistensi, ketentuan output, sistem evaluasi dan penilaian, tata tertib, penggunaan ruang studio, serta dokumentasi pembelajaran.
 
-Pedoman ini menjadi standar umum pelaksanaan studio, sedangkan ketentuan khusus mengenai objek perancangan, tema, target capaian, jadwal, dan output pada masing-masing Studio Perancangan Arsitektur mengacu pada RPS dan TOR yang berlaku.
+![Ruang Studio Arsitektur 1](/img/a-ruang-1.png)
+
+![Ruang Studio Arsitektur 2](/img/a-ruang-2.png)
+
+![Ruang Studio Arsitektur 3](/img/a-ruang-3.png)
+
+![Ruang Studio Arsitektur 4](/img/a-ruang-4.png)
+
+
+![Struktur Organisasi](/img/06-struktur.png)

@@ -6,31 +6,31 @@ import { BookOpen, Users, Award } from 'lucide-react';
 
 const FeatureList = [
   {
-    title: 'Pedoman Studio',
+    title: 'PEDOMAN STUDIO',
     Icon: BookOpen,
     description: (
       <>
-        Baca pedoman studio arsitektur.
+        Pelajari mekanisme, ketentuan, dan tata tertib pelaksanaan Studio Perancangan Arsitektur.
       </>
     ),
     link: '/panduan/pedoman',
   },
   {
-    title: 'Asistensi',
+    title: 'LOGBOOK ASISTENSI',
     Icon: Users,
     description: (
       <>
-        Baca panduan asistensi studio arsitektur.
+        Catat dan pantau proses asistensi serta perkembangan rancangan secara berkala.
       </>
     ),
     link: '/panduan/asistensi',
   },
   {
-    title: 'Penilaian',
+    title: 'RUBRIK PENILAIAN',
     Icon: Award,
     description: (
       <>
-        Baca ketentuan penilaian studio arsitektur.
+        Ketahui aspek, kriteria, dan indikator yang digunakan dalam penilaian studio.
       </>
     ),
     link: '/panduan/penilaian',

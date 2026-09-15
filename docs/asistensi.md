@@ -14,9 +14,6 @@ Asistensi merupakan proses pembimbingan antara mahasiswa dan dosen yang dilakuka
 
 Asistensi dimulai sejak tahap awal perancangan, termasuk proses pemilihan dan penetapan tapak apabila tapak belum ditentukan dalam TOR, hingga tahap pengembangan dan finalisasi rancangan.
 
- 
-## Mekanisme Asistensi
-
 ![Mekanisme Asistensi](/img/02-mekanisme-asistensi.png)
 
 Asistensi dilaksanakan secara berkelanjutan untuk memantau perkembangan rancangan dan memberikan umpan balik pada setiap tahapan. Setiap hasil asistensi dicatat dan ditindaklanjuti melalui proses revisi sebagai dasar pengembangan rancangan berikutnya.
