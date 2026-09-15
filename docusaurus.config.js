@@ -93,7 +93,7 @@ const config = {
         title: 'SiPASTI',
         logo: {
           alt: 'Logo Rawat ID',
-          src: 'img/rawatid.png',
+          src: 'img/blueprint.png',
         },
         items: [
           {to: '/panduan/overview', label: 'PROFIL & PEDOMAN STUDIO', position: 'left'},
