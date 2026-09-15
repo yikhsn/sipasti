@@ -13,7 +13,7 @@
   --ifm-color-primary-light: #153b60;
   --ifm-color-primary-lighter: #163d64;
   --ifm-color-primary-lightest: #194672;
-  
+
   --ifm-color-secondary: #fdb047;
   --ifm-color-secondary-dark: #fa9f22;
   --ifm-color-secondary-darker: #f59613;
@@ -21,9 +21,10 @@
   --ifm-color-secondary-light: #fdba5e;
   --ifm-color-secondary-lighter: #fdbf6a;
   --ifm-color-secondary-lightest: #fece8c;
-  
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-navbar-background-color: #fdb047;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -43,8 +44,9 @@
   --ifm-color-secondary-light: #fdba5e;
   --ifm-color-secondary-lighter: #fdbf6a;
   --ifm-color-secondary-lightest: #fece8c;
-  
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-background-color: #fdb047;
 }
 
 /* Center footer links */
@@ -59,3 +61,8 @@
 .footer__title {
   text-align: center;
 }
+
+/* Custom sidebar background color */
+/* .theme-doc-sidebar-container {
+  background-color: #133657;
+} */

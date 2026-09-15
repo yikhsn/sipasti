@@ -99,11 +99,6 @@ const config = {
           {to: '/panduan/overview', label: 'PROFIL & PEDOMAN STUDIO', position: 'left'},
           {to: '/panduan/asistensi', label: 'ASISTENSI', position: 'left'},
           {to: '/panduan/penilaian', label: 'PENILAIAN', position: 'left'},
-          {
-            href: 'https://demo.rawat.id/',
-            label: 'Demo',
-            position: 'right',
-          },
         ],
       },
       footer: {
