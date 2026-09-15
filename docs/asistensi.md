@@ -17,27 +17,9 @@ Asistensi dimulai sejak tahap awal perancangan, termasuk proses pemilihan dan pe
  
 ## Mekanisme Asistensi
 
-### 1. Siapkan Progres
+![Mekanisme Asistensi](/img/02-mekanisme-asistensi.png)
 
-Mahasiswa mempersiapkan perkembangan rancangan dan materi yang akan dikonsultasikan.
-
-### 2. Konsultasikan
-
-Mahasiswa menjelaskan perkembangan, permasalahan, dan keputusan desain kepada dosen pembimbing.
-
-### 3. Catat Umpan Balik
-
-Arahan, masukan, dan hasil pembahasan selama asistensi dicatat dalam Logbook Asistensi.
-
-### 4. Lakukan Revisi
-
-Mahasiswa menindaklanjuti hasil asistensi melalui perbaikan dan pengembangan rancangan.
-
-### 5. Asistensi Lanjutan
-
-Hasil pengembangan dan revisi dikonsultasikan kembali pada asistensi berikutnya.
-
-SIAPKAN PROGRES → KONSULTASI → CATAT → REVISI → ASISTENSI LANJUTAN 
+Asistensi dilaksanakan secara berkelanjutan untuk memantau perkembangan rancangan dan memberikan umpan balik pada setiap tahapan. Setiap hasil asistensi dicatat dan ditindaklanjuti melalui proses revisi sebagai dasar pengembangan rancangan berikutnya.
 
 ## Ketentuan Asistensi
 

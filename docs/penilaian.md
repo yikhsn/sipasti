@@ -16,33 +16,7 @@ Penilaian Studio Perancangan Arsitektur dilakukan secara menyeluruh terhadap pro
 
 Output yang harus disiapkan mahasiswa disesuaikan dengan tingkat Studio Perancangan Arsitektur dan ketentuan pada TOR masing-masing studio. Secara umum, output pembelajaran dapat meliputi:
 
-### Studi dan Pengumpulan Data
-
-Data tapak, dokumentasi kondisi eksisting, studi literatur, studi preseden atau studi banding, serta data pendukung lainnya.
-
-### Analisis Perancangan
-
-Analisis tapak, pengguna, aktivitas, kebutuhan dan hubungan ruang, lingkungan, serta aspek lain yang relevan dengan objek perancangan.
-
-### Konsep dan Skematik
-
-Konsep perancangan serta pengembangan awal tapak, ruang, bentuk, massa, sirkulasi, struktur, dan sistem bangunan.
-
-### Pengembangan Rancangan
-
-Pengembangan desain melalui site plan, denah, tampak, potongan, bentuk dan massa bangunan, struktur, utilitas, serta aspek teknis lainnya sesuai tingkat studio.
-
-### Gambar Rancangan Akhir
-
-Gambar dan visualisasi final sesuai dengan ketentuan output masing-masing studio.
-
-### Presentasi dan Komunikasi Visual / Presentation Board 
-
-Penyajian proses, gagasan, dan hasil rancangan melalui media grafis presentasi.
-
-### Maket atau Model
-
-Representasi rancangan dalam bentuk maket fisik atau media model lainnya sesuai ketentuan studio.
+![Output Studio](/img/03-output-studio.png)
 
 Catatan: Jenis, jumlah, skala, format, dan teknik penyajian output mengikuti ketentuan TOR masing-masing Studio Perancangan Arsitektur. 
 
