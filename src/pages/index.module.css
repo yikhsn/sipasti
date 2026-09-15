@@ -8,6 +8,14 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  min-height: 66vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgba(19, 54, 87, 0.7), rgba(19, 54, 87, 0.7)), url('@site/static/img/background-studio.png');
+  background-size: cover;
+  background-position: center;
 }
 
 @media screen and (max-width: 996px) {

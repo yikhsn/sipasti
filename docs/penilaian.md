@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Penilaian Studio
-description: Penilaian Studio 
+description: Penilaian Studio
 image: https://www.rawat.id/images/laptop.svg
 # keywords: [Prodi Arsitektur, Universitas Diponegoro, Panduan Studio Arsitektur]
 ---

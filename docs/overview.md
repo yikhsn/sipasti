@@ -1,14 +1,12 @@
 ---
 sidebar_position: 1
 title: Profil Studio
-description: Profil dan Pedoman Studio Arsitektur
+description: Profil Studio Arsitektur
 image: https://www.rawat.id/images/laptop.svg
 # keywords: [Prodi Arsitektur, Universitas Diponegoro, Panduan Studio Arsitektur]
 ---
 
-# Profil dan Pedoman Studio
-
-## Profil Studio
+# Profil Studio
 
 Studio Perancangan Arsitektur merupakan lingkungan pembelajaran yang mendukung mahasiswa dalam mengembangkan kemampuan perancangan melalui proses eksplorasi, analisis, diskusi, asistensi, pengembangan desain, dan evaluasi.
 

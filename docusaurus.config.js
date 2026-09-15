@@ -96,7 +96,8 @@ const config = {
           src: 'img/blueprint.png',
         },
         items: [
-          {to: '/panduan/overview', label: 'PROFIL & PEDOMAN STUDIO', position: 'left'},
+          {to: '/panduan/overview', label: 'PROFIL STUDIO', position: 'left'},
+          {to: '/panduan/pedoman', label: 'PEDOMAN STUDIO', position: 'left'},
           {to: '/panduan/asistensi', label: 'ASISTENSI', position: 'left'},
           {to: '/panduan/penilaian', label: 'PENILAIAN', position: 'left'},
         ],
@@ -108,8 +109,12 @@ const config = {
             title: 'Tautan',
             items: [
               {
-                label: 'Pedoman & Profil Studio',
+                label: 'Profil Studio',
                 to: '/panduan/overview',
+              },
+              {
+                label: 'Pedoman Studio',
+                to: '/panduan/pedoman',
               },
               {
                 label: 'Asistensi',

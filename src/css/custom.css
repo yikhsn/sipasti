@@ -49,6 +49,11 @@
   --ifm-navbar-background-color: #fdb047;
 }
 
+[data-theme='dark'] .hero--primary .hero__title,
+[data-theme='dark'] .hero--primary .hero__subtitle {
+  color: #fdb047;
+}
+
 /* Center footer links */
 .footer__links {
   justify-content: center;
@@ -66,3 +71,77 @@
 /* .theme-doc-sidebar-container {
   background-color: #133657;
 } */
+
+/* Custom Menu Icons */
+.menu__link[href="/panduan/overview"]::before,
+.navbar__item[href="/panduan/overview"]::before {
+  content: '';
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.5rem;
+  background-color: currentColor;
+  -webkit-mask-image: url('/img/icons/building.svg');
+  mask-image: url('/img/icons/building.svg');
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  vertical-align: text-bottom;
+}
+
+.menu__link[href="/panduan/pedoman"]::before,
+.navbar__item[href="/panduan/pedoman"]::before {
+  content: '';
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.5rem;
+  background-color: currentColor;
+  -webkit-mask-image: url('/img/icons/book.svg');
+  mask-image: url('/img/icons/book.svg');
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  vertical-align: text-bottom;
+}
+
+.menu__link[href="/panduan/asistensi"]::before,
+.navbar__item[href="/panduan/asistensi"]::before {
+  content: '';
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.5rem;
+  background-color: currentColor;
+  -webkit-mask-image: url('/img/icons/chat.svg');
+  mask-image: url('/img/icons/chat.svg');
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  vertical-align: text-bottom;
+}
+
+.menu__link[href="/panduan/penilaian"]::before,
+.navbar__item[href="/panduan/penilaian"]::before {
+  content: '';
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.5rem;
+  background-color: currentColor;
+  -webkit-mask-image: url('/img/icons/clipboard.svg');
+  mask-image: url('/img/icons/clipboard.svg');
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  vertical-align: text-bottom;
+}
+
+.footer__link-item[href="/panduan/overview"]::before {
+  content: ''; display: inline-block; width: 1.1rem; height: 1.1rem; margin-right: 0.4rem; background-color: currentColor; -webkit-mask-image: url('/img/icons/building.svg'); mask-image: url('/img/icons/building.svg'); -webkit-mask-size: cover; mask-size: cover; vertical-align: text-bottom;
+}
+.footer__link-item[href="/panduan/pedoman"]::before {
+  content: ''; display: inline-block; width: 1.1rem; height: 1.1rem; margin-right: 0.4rem; background-color: currentColor; -webkit-mask-image: url('/img/icons/book.svg'); mask-image: url('/img/icons/book.svg'); -webkit-mask-size: cover; mask-size: cover; vertical-align: text-bottom;
+}
+.footer__link-item[href="/panduan/asistensi"]::before {
+  content: ''; display: inline-block; width: 1.1rem; height: 1.1rem; margin-right: 0.4rem; background-color: currentColor; -webkit-mask-image: url('/img/icons/chat.svg'); mask-image: url('/img/icons/chat.svg'); -webkit-mask-size: cover; mask-size: cover; vertical-align: text-bottom;
+}
+.footer__link-item[href="/panduan/penilaian"]::before {
+  content: ''; display: inline-block; width: 1.1rem; height: 1.1rem; margin-right: 0.4rem; background-color: currentColor; -webkit-mask-image: url('/img/icons/clipboard.svg'); mask-image: url('/img/icons/clipboard.svg'); -webkit-mask-size: cover; mask-size: cover; vertical-align: text-bottom;
+}
