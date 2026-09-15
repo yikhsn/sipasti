@@ -1,42 +1,43 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { BookOpen, Users, Award } from 'lucide-react';
 
 const FeatureList = [
   {
-    title: 'Pasien Lebih Nyaman',
-    Svg: require('@site/static/img/landing/01-health.svg').default,
+    title: 'Profil & Pedoman Studio',
+    Icon: BookOpen,
     description: (
       <>
-        Pasien bahagia, pelayanan pasien menjadi lebih baik dan optimal!
+        Baca profil dan pedoman studio arsitektur.
       </>
     ),
   },
   {
-    title: 'Petugas Jadi Mudah',
-    Svg: require('@site/static/img/landing/06-earth.svg').default,
+    title: 'Asistensi',
+    Icon: Users,
     description: (
       <>
-        Pekerjaan petugas jadi lebih mudah, cepat, dan minim kesalahan!
+        Baca panduan asistensi studio arsitektur.
       </>
     ),
   },
   {
-    title: 'Profit Makin Optimal',
-    Svg: require('@site/static/img/landing/04-money.svg').default,
+    title: 'Penilaian',
+    Icon: Award,
     description: (
       <>
-        Profit fasilitas pelayanan kesehatan makin optimal, biaya operasional lebih efisien!
+        Baca ketentuan penilaian studio arsitektur.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Icon, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Icon className={styles.featureSvg} style={{ color: 'var(--ifm-color-primary)', width: '120px', height: '120px', margin: '20px 0' }} strokeWidth={1.5} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

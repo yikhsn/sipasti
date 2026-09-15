@@ -28,6 +28,26 @@ function HomepageHeader() {
   );
 }
 
+function HomepageAbout() {
+  return (
+    <section className="padding-vert--xl">
+      <div className="container">
+        <div className="row">
+          <div className="col col--10 col--offset-1">
+            <Heading as="h2" className="margin-bottom--lg">
+              Program Studi Arsitektur<br/>
+              Fakultas Teknik – Universitas Negeri Medan
+            </Heading>
+            <p style={{ fontSize: '1.1rem', lineHeight: '1.6', textAlign: 'justify' }}>
+              SiPASTI merupakan portal terintegrasi yang mendukung pelaksanaan pembelajaran Studio Perancangan Arsitektur agar lebih terarah, konsisten, transparan, dan terdokumentasi. Portal ini menyediakan akses terhadap Pedoman Pelaksanaan Studio, Logbook Asistensi, Rubrik Penilaian, serta informasi pendukung pembelajaran studio.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -36,6 +56,7 @@ export default function Home() {
       description="Panduan pengguna Rawat ID, sistem informasi rumah sakit dan klinik andalan!">
       <HomepageHeader />
       <main>
+        <HomepageAbout />
         <HomepageFeatures />
       </main>
     </Layout>

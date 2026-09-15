@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Panduan Pengguna - Rawat ID',
-  tagline: 'Sistem Informasi Manajemen Rumah Sakit dan Klinik Andalan Tenaga Kesehatan!',
-  favicon: 'img/rawatid.png',
+  title: 'SiPASTI',
+  tagline: 'Sistem Pengelolaan dan Standardisasi Studio Terintegrasi',
+  favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -90,19 +90,15 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Panduan Rawat ID',
+        title: 'SiPASTI',
         logo: {
           alt: 'Logo Rawat ID',
           src: 'img/rawatid.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Panduan Pengguna',
-          },
-          {to: '/notes', label: 'Catatan Rilis', position: 'left'},
+          {to: '/panduan/overview', label: 'PROFIL & PEDOMAN STUDIO', position: 'left'},
+          {to: '/panduan/asistensi', label: 'ASISTENSI', position: 'left'},
+          {to: '/panduan/penilaian', label: 'PENILAIAN', position: 'left'},
           {
             href: 'https://demo.rawat.id/',
             label: 'Demo',
@@ -114,56 +110,25 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Panduan',
-            items: [
-              {
-                label: 'Panduan Pengguna',
-                to: '/panduan/overview',
-              },
-            ],
-          },
-          {
             title: 'Tautan',
             items: [
               {
-                label: 'Rawat ID',
-                href: 'https://rawat.id/',
+                label: 'Pedoman & Profil Studio',
+                to: '/panduan/overview',
               },
               {
-                label: 'Demo Aplikasi',
-                href: 'https://demo.rawat.id/',
+                label: 'Asistensi',
+                to: '/panduan/asistensi',
               },
               {
-                label: 'Registrasi Akun',
-                href: 'https://www.rawat.id/register',
+                label: 'Penilaian',
+                to: '/panduan/penilaian',
               },
-              {
-                label: 'Instagram',
-                href: 'https://instagram.com/rawat_indonesia',
-              },
-              
             ],
           },
-          {
-            title: 'Lainnya',
-            items: [
-              {
-                label: 'Blog',
-                href: 'https://blog.rawat.id/',
-              },
-              {
-                label: 'Catatan Rilis',
-                to: '/notes',
-              },
-              {
-                label: 'Catatan Pengembang',
-                href: 'https://dev.rawat.id/',
-              },
-              
-            ],
-          },
+          
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} - Rawat ID`,
+        copyright: `<b>Program Studi Arsitektur</b><br/>Fakultas Teknik – Universitas Negeri Medan<br/><br/>SiPASTI - Sistem Pengelolaan dan Standardisasi Studio Terintegrasi`,
       },
       prism: {
         theme: prismThemes.github,
