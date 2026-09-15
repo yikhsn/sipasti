@@ -96,10 +96,11 @@ const config = {
           src: 'img/blueprint.png',
         },
         items: [
-          {to: '/panduan/overview', label: 'PROFIL STUDIO', position: 'left'},
-          {to: '/panduan/pedoman', label: 'PEDOMAN STUDIO', position: 'left'},
+          {to: '/panduan/overview', label: 'PROFIL', position: 'left'},
+          {to: '/panduan/pedoman', label: 'PEDOMAN', position: 'left'},
           {to: '/panduan/asistensi', label: 'ASISTENSI', position: 'left'},
           {to: '/panduan/penilaian', label: 'PENILAIAN', position: 'left'},
+          {to: '/panduan/document', label: 'DOKUMENTASI', position: 'left'},
         ],
       },
       footer: {
@@ -123,6 +124,10 @@ const config = {
               {
                 label: 'Penilaian',
                 to: '/panduan/penilaian',
+              },
+              {
+                label: 'Dokumentasi Studio',
+                to: '/panduan/document',
               },
             ],
           },

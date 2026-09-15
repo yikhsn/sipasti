@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Panduan pengguna Rawat ID, sistem informasi rumah sakit dan klinik andalan!">
+      description="SiPASTI merupakan portal terintegrasi yang mendukung pelaksanaan pembelajaran Studio Perancangan Arsitektur agar lebih terarah, konsisten, transparan, dan terdokumentasi. Portal ini menyediakan akses terhadap Pedoman Pelaksanaan Studio, Logbook Asistensi, Rubrik Penilaian, serta informasi pendukung pembelajaran studio.">
       <HomepageHeader />
       <main>
         <HomepageAbout />

@@ -27,13 +27,16 @@ Studio Perancangan Arsitektur merupakan wadah penerapan dan integrasi pengetahua
 Untuk memfasilitasi kegiatan perancangan dan desain, Program Studi Arsitektur memiliki ruang studio khusus untuk mahasiswa arsitektur. Fasilitas umum yang tersedia di studio adalah set meja dan kursi, papan tulis, proyektor, rak. Semua fasilitas yang disediakan di dalam ruangan ditujukan untuk mendukung mahasiswa bekerja secara individu atau kelompok selama satu semester serta melakukan sesi diskusi dengan dosen pembimbing studio. 
 
 
-![Ruang Studio Arsitektur 1](/img/a-ruang-1.png)
+import ImageCarousel from '@site/src/components/ImageCarousel';
 
-![Ruang Studio Arsitektur 2](/img/a-ruang-2.png)
-
-![Ruang Studio Arsitektur 3](/img/a-ruang-3.png)
-
-![Ruang Studio Arsitektur 4](/img/a-ruang-4.png)
+<ImageCarousel images={[
+  '/img/a-ruang-1.png',
+  '/img/a-ruang-2.png',
+  '/img/a-ruang-3.png',
+  '/img/a-ruang-4.png'
+]} />
 
 
 ![Struktur Organisasi](/img/06-struktur.png)
+
+Kepala Studio gambar dijabat oleh Harry Wibowo, S.T., Ars., M.T. dengan tanggung jawab utama pada pengelolaan kegiatan laboratorium/workshop, baik dari sisi teknis, akademik, maupun administratif. Peran Kepala Laboratorium penting dalam mendukung proses pembelajaran dan pengembangan kompetensi mahasiswa di bidang teknik gambar.
