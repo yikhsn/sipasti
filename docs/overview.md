@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Profil & Pedoman Studio
+title: Profil Studio
 description: Profil dan Pedoman Studio Arsitektur
 image: https://www.rawat.id/images/laptop.svg
 # keywords: [Prodi Arsitektur, Universitas Diponegoro, Panduan Studio Arsitektur]

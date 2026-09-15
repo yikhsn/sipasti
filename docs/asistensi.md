@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-title: Asistensi
+sidebar_position: 3
+title: Asistensi Studio
 description: Asistensi Studio Arsitektur
 image: https://www.rawat.id/images/laptop.svg
 # keywords: [Prodi Arsitektur, Universitas Diponegoro, Panduan Studio Arsitektur]
