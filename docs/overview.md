@@ -16,11 +16,11 @@ Pembelajaran studio dilaksanakan secara bertahap melalui Studio Perancangan Arsi
 
 ![Profil Studio](/img/00-profil-studio.png)
 
-## Integrasi Studio dengan Mata Kuliah Lain
+## Integrasi Studio dengan Mata Kuliah Pendukung
 
 Studio Perancangan Arsitektur merupakan wadah penerapan dan integrasi pengetahuan serta keterampilan yang diperoleh mahasiswa melalui berbagai mata kuliah pendukung. Pengetahuan tersebut digunakan sebagai pertimbangan dalam proses pengambilan keputusan perancangan sehingga rancangan tidak hanya menjawab aspek fungsi dan estetika, tetapi juga mempertimbangkan aspek teknis, lingkungan, serta konteks yang relevan.
 
-![Integrasi Studio dengan Mata Kuliah Lain](/img/05-integrasi.png)
+![Integrasi Studio dengan Mata Kuliah Lain](/img/09-panduan-pelaksanaan.png)
 
 ## Ruang Studio Arsitektur
 
