@@ -30,10 +30,10 @@ Untuk memfasilitasi kegiatan perancangan dan desain, Program Studi Arsitektur me
 import ImageCarousel from '@site/src/components/ImageCarousel';
 
 <ImageCarousel images={[
-  '/img/a-ruang-1.png',
-  '/img/a-ruang-2.png',
-  '/img/a-ruang-3.png',
-  '/img/a-ruang-4.png'
+  '/img/a-ruang-1.jpeg',
+  '/img/a-ruang-2.jpeg',
+  '/img/a-ruang-3.jpeg',
+  '/img/a-ruang-4.jpeg'
 ]} />
 
 
